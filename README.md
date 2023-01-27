@@ -1,1 +1,3 @@
-# chocolate_bars_EDA
+# Chocolate Bars Exploratory Data Analysis
+
+Data Camp Previous Competition
